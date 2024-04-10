@@ -10,7 +10,6 @@
     "IMixinChunkLightProvider",
     "IMixinClientWorld",
     "IMixinCommandBlockExecutor",
-    "IMixinEntity",
     "IMixinShovelItem",
     "IMixinSimpleOption",
     "MixinAbstractClientPlayerEntity",
